@@ -124,6 +124,11 @@ The Excel dashboard provides an interactive view of delivery performance using:
 - Hour-based filtering
 
 ---
+### Dashboard Preview
+
+![Blinkit Delivery Performance Dashboard](screenshots/blinkit-dashboard.png)
+
+---
 
 ## 📂 Project Files
 
