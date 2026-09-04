@@ -192,7 +192,33 @@ The Excel dashboard provides an interactive view of delivery performance using:
 ---
 ### Dashboard Preview
 
+The dashboard provides an interactive view of delivery performance across time, stores, and cities.
+
 ![Blinkit Delivery Performance Dashboard](screenshots/blinkit-dashboard.png)
+
+---
+
+## 📌 Project Outcome
+
+The analysis identified peak-hour rider assignment and waiting time as important operational areas affecting delivery performance.
+
+The findings suggest that improving rider allocation, dispatch efficiency, and store handoff processes during high-demand evening periods could help reduce delivery delays.
+
+---
+
+## 💼 Skills Demonstrated
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Excel PivotTables
+- Excel Charts & Visualization
+- Interactive Dashboard Development
+- Slicer-based Analysis
+- KPI Development
+- Trend Analysis
+- Operational Performance Analysis
+- Business Insight Generation
+- Data-driven Recommendations
 
 ---
 
