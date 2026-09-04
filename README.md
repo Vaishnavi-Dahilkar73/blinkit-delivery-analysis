@@ -57,6 +57,72 @@ The analysis focuses on:
 
 ---
 
+## 🔄 Analysis Workflow
+
+The analysis followed a structured data analytics workflow:
+
+1. **Data Preparation**
+   - Reviewed the order-level delivery dataset.
+   - Checked the available delivery process metrics.
+   - Prepared the data for analysis.
+
+2. **Exploratory Data Analysis**
+   - Analyzed delivery performance by week.
+   - Compared peak and non-peak periods.
+   - Analyzed delivery time by hour.
+   - Compared performance across stores and cities.
+
+3. **Operational Analysis**
+   - Examined rider assignment time.
+   - Examined rider waiting time.
+   - Compared peak orders with active rider availability.
+   - Investigated relationships between operational factors and delivery time.
+
+4. **Dashboard Development**
+   - Created KPI cards.
+   - Built charts for trends and comparisons.
+   - Added interactive slicers for Hour, Store, and City.
+
+5. **Business Recommendations**
+   - Identified operational bottlenecks.
+   - Recommended improvements to rider allocation and dispatch.
+   - Recommended further investigation of store handoff and readiness processes.
+     
+---
+
+## 📁 Dataset Structure
+
+The project uses two main datasets:
+
+### Delivery Data
+
+Contains order-level delivery information and operational time metrics such as:
+
+- Order ID
+- Date
+- Store ID
+- City
+- Picking Time
+- Packing Time
+- Rider Assignment Time
+- Rider Waiting Time
+- Delivery Time
+- Total Delivery Time
+
+### Store Data
+
+Contains store-level operational information including:
+
+- Store ID
+- City
+- Store Capacity
+- Active Riders
+- Peak-hour Orders
+
+These datasets were used together to analyze delivery performance and investigate operational delays.
+
+---
+
 ## 🔎 Key Findings
 
 ### 1. Peak-hour delivery delays
