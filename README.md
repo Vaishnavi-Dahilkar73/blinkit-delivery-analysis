@@ -240,7 +240,6 @@ The repository contains:
 
 - Excel analysis file
 - Dashboard screenshots
-- Project documentation
 
 ---
 
