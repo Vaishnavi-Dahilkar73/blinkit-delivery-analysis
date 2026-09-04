@@ -14,6 +14,18 @@ The project was developed using Microsoft Excel to perform data analysis, create
 
 ---
 
+## ⭐ Project Highlights
+
+- Analyzed **240 delivery orders** to understand operational delays.
+- Identified **13.57 minutes** as the average peak-hour delivery time compared with **11.67 minutes** during non-peak hours.
+- Found rider assignment time increased to **1.89 minutes** during peak hours.
+- Identified **19:00–22:00** as a key period for delivery delays.
+- Evaluated store-level performance and peak-hour rider availability.
+- Built an interactive Excel dashboard with **Hour, Store, and City slicers**.
+- Converted analytical findings into actionable operational recommendations.
+
+--- 
+
 ## 🎯 Business Problem
 
 Blinkit aims to provide fast delivery to customers. However, delivery time can increase during certain periods and locations.
@@ -229,6 +241,12 @@ The repository contains:
 - Excel analysis file
 - Dashboard screenshots
 - Project documentation
+
+---
+
+## 👩‍💻 My Role
+
+I independently performed the data preparation, exploratory analysis, PivotTable analysis, dashboard development, and business interpretation for this project.
 
 ---
 
